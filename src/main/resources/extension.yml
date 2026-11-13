@@ -1,0 +1,7 @@
+id: geysernametagfix
+name: GeyserNametagFix
+main: dev.mending.geyser.nametagfix.GeyserNametagFixExtension
+api: 2.12.0
+version: 2.12.0
+authors:
+  - MrMending

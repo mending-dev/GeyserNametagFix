@@ -1,0 +1,26 @@
+# Gradle (the wrapper in gradle/wrapper/ stays tracked)
+.gradle/
+build/
+!gradle/wrapper/gradle-wrapper.jar
+
+# IntelliJ IDEA
+.idea/
+*.iml
+*.ipr
+*.iws
+out/
+
+# Eclipse / VS Code
+.classpath
+.project
+.settings/
+bin/
+.vscode/
+
+# Logs and crash files
+*.log
+hs_err_pid*
+
+# OS files
+.DS_Store
+Thumbs.db
